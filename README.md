@@ -8,3 +8,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=1F698D)
 ![Maven](https://img.shields.io/badge/-Maven-1e1e1e?style=for-the-badge&logo=maven&logoColor=FF6224)
 ![Git](https://img.shields.io/badge/-Git-1e1e1e?style=for-the-badge&logo=git&logoColor=FD2E33)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konianzero&hide=contribs&show_icons=true&theme=gruvbox)
